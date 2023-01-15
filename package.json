@@ -1,0 +1,37 @@
+{
+  "name": "inf-04-webowe",
+  "displayName": "INF.04 Webowe",
+  "description": "Wsparcie w egzaminie INF.04 (Aplikacje webowe)",
+  "version": "0.1.0",
+  "author": {
+    "name": "Wenyl"
+  },
+  "publisher": "Wenyl",
+  "icon": "images/logo_webowe.png",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "keywords": [
+    "webowe",
+    "inf04",
+    "react",
+    "inf.04",
+    "zawodowy"
+  ],
+  "categories": [
+    "Snippets"
+  ],
+  "license": "SEE LICENSE IN LICENSE.md",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  },
+  "galleryBanner": {
+    "color": "#779ECC",
+    "theme": "dark"
+  }
+}
