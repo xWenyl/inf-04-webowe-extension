@@ -30,6 +30,10 @@
       }
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xWenyl/inf-04-webowe-extension"
+  },
   "galleryBanner": {
     "color": "#779ECC",
     "theme": "dark"
